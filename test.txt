@@ -1,5 +1,3 @@
 hello
-<<<<<<< HEAD
 hi
-=======
->>>>>>> parent of 6c9bad0 (seconde commit)
+testbranch가 수정
