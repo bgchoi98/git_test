@@ -1,3 +1,5 @@
 hello
+<<<<<<< HEAD
 hi
-thanks
+=======
+>>>>>>> parent of 6c9bad0 (seconde commit)
